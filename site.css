@@ -1,0 +1,33 @@
+body {
+    font-family: 'Prompt', sans-serif !important;
+}
+.bgnav {
+    background-color: rgb(73 53 20);
+    color: #fff !important;
+    padding-bottom: 0px !important;
+}
+.navbrand {
+    text-decoration: none;
+    color: #fff !important;
+    font-weight: bold;
+}
+.navbar-toggler {
+    color: #fff !important;
+    font-size: xx-large !important;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 1rem;
+    text-align: center;
+
+}
+.btnfixed {
+    font-size: inherit !important;
+    font-weight: bold !important;
+}
+.btnnav {
+    padding: 0.5rem 1rem 0.5rem 1rem !important;
+    font-size: large !important;
+    font-weight: bold !important;
+}
